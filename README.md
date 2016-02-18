@@ -12,7 +12,11 @@ Currently: 1 TIL
 
 # Categories
 
-* [HTML](html)
+* [HTML](#html)
+
+# HTML
+
+* [Web Workers](html/webWorkers.md)
 
 
 # License
