@@ -12,7 +12,12 @@ Currently: 1 TIL
 
 # Categories
 
+* [Arduino](#arduino)
 * [HTML](#html)
+
+# Arduino
+
+* [Setup the correct baud rate in the Serial monitor](arduino/baudRateSerialMonitor.md)
 
 # HTML
 
