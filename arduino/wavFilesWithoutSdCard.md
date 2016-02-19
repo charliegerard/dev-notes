@@ -11,7 +11,7 @@ If your .wav file is in iTunes, go through the following steps:
 * select 'custom' from the 'setting' dropdown.
 * Inside the custom settings, enter the same settings as below:
 
-[](http://highlowtech.org/wp-content/uploads/2011/12/iTunes-mp3-settings.png)
+![wav files arduino](http://highlowtech.org/wp-content/uploads/2011/12/iTunes-mp3-settings.png)
 
 * click ok on everything.
 * Right-click on the audio you want to convert and select 'create MP3 version'.
