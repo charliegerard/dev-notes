@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 5 TILs
+Currently: 6 TILs
 
 ---
 
@@ -14,6 +14,8 @@ Currently: 5 TILs
 
 * [Arduino](#arduino)
 * [HTML5](#html5)
+* [JavaScript](#javascript)
+  * [React](#react)
 * [Processing](#processing)
 
 # Arduino
@@ -25,6 +27,12 @@ Currently: 5 TILs
 
 * [Web Workers](html/webWorkers.md)
 * [What is a polyfill](html/polyfill.md)
+
+# JavaScript
+
+### React
+
+* [Mixins](javascript/react/mixins.md)
 
 # Processing
 
