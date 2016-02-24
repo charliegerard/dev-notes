@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 6 TILs
+Currently: 7 TILs
 
 ---
 
@@ -22,6 +22,7 @@ Currently: 6 TILs
 
 * [Setup the correct baud rate in the Serial monitor](arduino/baudRateSerialMonitor.md)
 * [Play .wav files on Arduino without an SD card](arduino/wavFilesWithoutSdCard.md)
+* [How to read resistors](arduino/resistors.md)
 
 # HTML5
 
