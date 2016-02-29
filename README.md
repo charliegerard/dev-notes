@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 9 TILs
+Currently: 10 TILs
 
 ---
 
@@ -32,6 +32,8 @@ Currently: 9 TILs
 * [What is a polyfill](html/polyfill.md)
 
 # JavaScript
+
+* [JavaScript security with Obfuscators](javascript/obfuscators.md)
 
 ### React
 
