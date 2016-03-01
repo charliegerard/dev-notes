@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 10 TILs
+Currently: 11 TILs
 
 ---
 
@@ -30,6 +30,7 @@ Currently: 10 TILs
 
 * [Web Workers](html/webWorkers.md)
 * [What is a polyfill](html/polyfill.md)
+* [Preload](html/preload.md)
 
 # JavaScript
 
