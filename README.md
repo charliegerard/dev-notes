@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 13 TILs
+Currently: 14 TILs
 
 ---
 
@@ -44,6 +44,7 @@ Currently: 13 TILs
 ### Node
 
 * [Npm link](javascript/node/npmLink.md)
+* [Install npm packages offline](javascript/node/installNpmPackagesOffline.md)
 
 # Processing
 
