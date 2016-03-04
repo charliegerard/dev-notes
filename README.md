@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 14 TILs
+Currently: 15 TILs
 
 ---
 
@@ -26,6 +26,7 @@ Currently: 14 TILs
 * [How to read resistors](arduino/resistors.md)
 * [Using a mini breadboard](arduino/usingMiniBreadboard.md)
 * [Some prototyping vocabulary](arduino/prototypingVocabulary.md)
+* [Difference Voltage and Current](arduino/voltageCurrent.md)
 
 # HTML5
 
