@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 15 TILs
+Currently: 16 TILs
 
 ---
 
@@ -37,6 +37,7 @@ Currently: 15 TILs
 # JavaScript
 
 * [JavaScript security with Obfuscators](javascript/obfuscators.md)
+* [Array destructuring](javascriot/destructuring.md)
 
 ### React
 
