@@ -18,6 +18,7 @@ Currently: 18 TILs
   * [React](#react)
   * [Node](#node)
 * [Processing](#processing)
+* [Git](#git)
 
 # Arduino
 
@@ -27,6 +28,10 @@ Currently: 18 TILs
 * [Using a mini breadboard](arduino/usingMiniBreadboard.md)
 * [Some prototyping vocabulary](arduino/prototypingVocabulary.md)
 * [Difference Voltage and Current](arduino/voltageCurrent.md)
+
+# Git
+
+* [Git pull rebase](git/rebase.md)
 
 # HTML5
 
