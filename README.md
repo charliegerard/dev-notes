@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 19 TILs
+Currently: 20 TILs
 
 ---
 
@@ -37,6 +37,7 @@ Currently: 19 TILs
 # Git
 
 * [Git pull rebase](git/rebase.md)
+* [How to fix most recent commit](git/amend.md)
 
 # HTML5
 
