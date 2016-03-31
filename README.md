@@ -6,17 +6,18 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 18 TILs
+Currently: 19 TILs
 
 ---
 
 # Categories
 
 * [Arduino](#arduino)
+* [Command line](#commandline)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
-  * [React](#react)
   * [Node](#node)
+  * [React](#react)
 * [Processing](#processing)
 * [Git](#git)
 
@@ -28,6 +29,10 @@ Currently: 18 TILs
 * [Using a mini breadboard](arduino/usingMiniBreadboard.md)
 * [Some prototyping vocabulary](arduino/prototypingVocabulary.md)
 * [Difference Voltage and Current](arduino/voltageCurrent.md)
+
+# Command line
+
+* [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 
 # Git
 
@@ -46,20 +51,21 @@ Currently: 18 TILs
 * [Array destructuring](javascriot/destructuring.md)
 * [Different types of functions](javascript/typesFunctions.md)
 
-### React
-
-* [Mixins](javascript/react/mixins.md)
-
 ### Node
 
 * [Npm link](javascript/node/npmLink.md)
 * [Install npm packages offline](javascript/node/installNpmPackagesOffline.md)
+
+### React
+
+* [Mixins](javascript/react/mixins.md)
 
 # Processing
 
 * [Formula to map out image pixels from two dimensional array to one dimensional array with the raw depth data of the Kinect](processing/rawDepthPixels.md)
 * [Using the map function](processing/mapFunction.md)
 
+---
 
 # License
 
