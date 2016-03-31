@@ -13,7 +13,7 @@ Currently: 19 TILs
 # Categories
 
 * [Arduino](#arduino)
-* [Command line](#commandline)
+* [Command line](#command_line)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
   * [Node](#node)
@@ -30,7 +30,7 @@ Currently: 19 TILs
 * [Some prototyping vocabulary](arduino/prototypingVocabulary.md)
 * [Difference Voltage and Current](arduino/voltageCurrent.md)
 
-# Command line
+# Command_Line
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 
