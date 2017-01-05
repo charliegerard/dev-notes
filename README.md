@@ -18,8 +18,10 @@ Currently: 22 TILs
 * [JavaScript](#javascript)
   * [Node](#node)
   * [React](#react)
+* [Machine Learning](#machine_learning)
 * [Processing](#processing)
 * [Git](#git)
+
 
 # Arduino
 
@@ -62,6 +64,10 @@ Currently: 22 TILs
 ### React
 
 * [Mixins](javascript/react/mixins.md)
+
+# Machine_Learning
+
+* [Naive Bayes](machine_learning/naiveBayes.md)
 
 # Processing
 
