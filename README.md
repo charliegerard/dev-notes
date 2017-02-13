@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 26 TILs
+Currently: 27 TILs
 
 ---
 
@@ -14,6 +14,7 @@ Currently: 26 TILs
 
 * [Arduino](#arduino)
 * [Command line](#command_line)
+* [Computer Science](#computer_science)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
   * [Node](#node)
@@ -35,6 +36,9 @@ Currently: 26 TILs
 # Command_Line
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
+
+# Computer_Science
+* [Pure functions](computerScience/pureFunctions.md)
 
 # Git
 
