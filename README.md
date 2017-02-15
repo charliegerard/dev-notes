@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 27 TILs
+Currently: 28 TILs
 
 ---
 
@@ -60,6 +60,7 @@ Currently: 27 TILs
 * [Array destructuring](javascriot/destructuring.md)
 * [Different types of functions](javascript/typesFunctions.md)
 * [Event Delegation](javascript/eventDelegation.md)
+* [AMD - Asynchronous Module Definition](javascript/amd.md)
 
 ### Node
 
