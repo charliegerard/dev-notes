@@ -43,6 +43,7 @@ Currently: 29 TILs
 
 # Front_End
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
+* [Flash of Unstyled Content (FOUC)](frontEnd/FOUC.md)
 
 # Git
 
