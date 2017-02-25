@@ -1,12 +1,12 @@
 # TIL (Today I Learnt)
 
-Inspired by @jbranchaud's [repo](https://github.com/jbranchaud/til) who stole the idea from @thoughtbot's [repo](https://github.com/thoughtbot/til)
+Inspired by @jbranchaud's [repo](https://github.com/jbranchaud/til) and @thoughtbot's [repo](https://github.com/thoughtbot/til)
 
-This project is a collection of small things I learn about different languages, frameworks or/and technologies.
+This project is a collection of small things I learn about different languages, frameworks and technologies.
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 29 TILs
+Currently: 30 TILs
 
 ---
 
@@ -66,6 +66,7 @@ Currently: 29 TILs
 * [Different types of functions](javascript/typesFunctions.md)
 * [Event Delegation](javascript/eventDelegation.md)
 * [AMD - Asynchronous Module Definition](javascript/amd.md)
+* [Hoisting](javascript/hoisting.md)
 
 ### Node
 
