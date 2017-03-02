@@ -15,6 +15,10 @@ Ways to optimize images:
 
 * Avoid 'render-blocking' JS and CSS files which are files that need to be loaded and processed before the browser can display any information.
 
+* Load scripts asynchronously with the `async` property on script tags for the loading of assets that don't affect the DOM. Also for external scripts that don't require knowledge of our code and are not essential for the UX.
+
+* Also use `defer` for the scripts that can wait to execute until the HTML has been parsed.
+
 * Gzipping
 
 * Caching / Cache-busting
