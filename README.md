@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 31 TILs
+Currently: 32 TILs
 
 ---
 
@@ -45,6 +45,7 @@ Currently: 31 TILs
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
 * [Flash of Unstyled Content (FOUC)](frontEnd/FOUC.md)
 * [Console.time()](frontEnd/consoleTime.md)
+* [Performance tips](frontEnd/performanceTips.md)
 
 # Git
 
