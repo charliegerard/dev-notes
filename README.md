@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 34 TILs
+Currently: 35 TILs
 
 ---
 
@@ -48,6 +48,7 @@ Currently: 34 TILs
 * [Performance tips](frontEnd/performanceTips.md)
 * [Critical Rendering Path](frontEnd/CriticalRenderingPath.md)
 * [Cross-Site Scripting](frontEnd/CrossSiteScripting.md)
+* [Cross-Site Request Forgery](frontEnd/CrossSiteRequestForgery.md)
 
 # Git
 
