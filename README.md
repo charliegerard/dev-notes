@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 35 TILs
+Currently: 36 TILs
 
 ---
 
@@ -18,6 +18,7 @@ Currently: 35 TILs
 * [Front-End](#front_end)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
+  * [Design patterns](#design_patterns)
   * [Node](#node)
   * [React](#react)
 * [Machine Learning](#machine_learning)
@@ -81,6 +82,11 @@ Currently: 35 TILs
 ### React
 
 * [Mixins](javascript/react/mixins.md)
+
+### Design_patterns
+
+* [Constructor Pattern](javascript/design_patterns/constructorPattern.md)
+
 
 # Machine_Learning
 
