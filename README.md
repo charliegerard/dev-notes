@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 37 TILs
+Currently: 38 TILs
 
 ---
 
@@ -41,6 +41,7 @@ Currently: 37 TILs
 
 # Computer_Science
 * [Pure functions](computerScience/pureFunctions.md)
+* [Tight coupling vs loose coupling](computerScience/tightCouplingLooseCoupling.md)
 
 # Front_End
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
