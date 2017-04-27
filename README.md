@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 39 TILs
+Currently: 40 TILs
 
 ---
 
@@ -15,6 +15,7 @@ Currently: 39 TILs
 * [Arduino](#arduino)
 * [Command line](#command_line)
 * [Computer Science](#computer_science)
+* [CSS](#css)
 * [Front-End](#front_end)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
@@ -42,6 +43,9 @@ Currently: 39 TILs
 # Computer_Science
 * [Pure functions](computerScience/pureFunctions.md)
 * [Tight coupling vs loose coupling](computerScience/tightCouplingLooseCoupling.md)
+
+# CSS
+* [Mix Blend Mode](css/mixBlendMode.md)
 
 # Front_End
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
