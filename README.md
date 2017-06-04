@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 43 TILs
+Currently: 44 TILs
 
 ---
 
@@ -44,6 +44,7 @@ Currently: 43 TILs
 * [Pure functions](computerScienceJargon/pureFunctions.md)
 * [Tight coupling vs loose coupling](computerScienceJargon/tightCouplingLooseCoupling.md)
 * [Higher-order functions](computerScienceJargon/higherOrderFunctions.md)
+* [Programming paradigms](computerScienceJargon/programmingParadigms.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
