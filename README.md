@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 40 TILs
+Currently: 43 TILs
 
 ---
 
@@ -14,7 +14,7 @@ Currently: 40 TILs
 
 * [Arduino](#arduino)
 * [Command line](#command_line)
-* [Computer Science](#computer_science)
+* [Computer Science Jargon](#computer_science_jargon)
 * [CSS](#css)
 * [Front-End](#front_end)
 * [HTML5](#html5)
@@ -40,9 +40,10 @@ Currently: 40 TILs
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 
-# Computer_Science
-* [Pure functions](computerScience/pureFunctions.md)
-* [Tight coupling vs loose coupling](computerScience/tightCouplingLooseCoupling.md)
+# Computer_Science_Jargon
+* [Pure functions](computerScienceJargon/pureFunctions.md)
+* [Tight coupling vs loose coupling](computerScienceJargon/tightCouplingLooseCoupling.md)
+* [Higher-order functions](computerScienceJargon/higherOrderFunctions.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
