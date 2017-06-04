@@ -41,10 +41,10 @@ Currently: 44 TILs
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 
 # Computer_Science_Jargon
-* [Pure functions](computerScienceJargon/pureFunctions.md)
-* [Tight coupling vs loose coupling](computerScienceJargon/tightCouplingLooseCoupling.md)
-* [Higher-order functions](computerScienceJargon/higherOrderFunctions.md)
-* [Programming paradigms](computerScienceJargon/programmingParadigms.md)
+* [Pure functions](csJargon/pureFunctions.md)
+* [Tight coupling vs loose coupling](csJargon/tightCouplingLooseCoupling.md)
+* [Higher-order functions](csJargon/higherOrderFunctions.md)
+* [Programming paradigms](csJargon/programmingParadigms.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
