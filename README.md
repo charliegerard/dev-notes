@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 45 TILs
+Currently: 46 TILs
 
 ---
 
@@ -16,6 +16,7 @@ Currently: 45 TILs
 * [Command line](#command_line)
 * [Computer Science Jargon](#computer_science_jargon)
 * [CSS](#css)
+* [Electronics](#electronics)
 * [Front-End](#front_end)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
@@ -49,6 +50,9 @@ Currently: 45 TILs
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
+
+# Electronics
+* [Current](electronics/current.md)
 
 # Front_End
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
