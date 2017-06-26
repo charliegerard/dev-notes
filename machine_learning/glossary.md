@@ -1,6 +1,8 @@
 # Glossary
 
-* **Linear decision surface**: In a scatter plot graph, sets of data can be separated in difference decision surfaces. If they can be separated by a straight line, it is called a Linear Decision Surface.
+* Accuracy: Number of points classified correctly / total number of points on the scatter plot.
+
+* **Linear decision surface**: In a scatter plot graph, sets of data (**classes**) can be separated in difference decision surfaces by a **decision boundary**. If this decision boundary is a **straight line**, it is called a **Linear Decision Surface**.
 
 Example:
 

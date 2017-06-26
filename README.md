@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarizing concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 47 TILs
+Currently: 48 TILs
 
 ---
 
@@ -105,6 +105,7 @@ Currently: 47 TILs
 # Machine_Learning
 
 * [Glossary](machine_learning/glossary.md)
+* [Bayes rule](machine_learning/bayesRule.md)
 * [Naive Bayes](machine_learning/naiveBayes.md)
 * [SVM](machine_learning/svm.md)
 
