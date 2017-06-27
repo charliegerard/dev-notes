@@ -11,3 +11,8 @@ Cancer example:
 Probability of test positive:
 
 ![probabilities](probabilities.png)
+
+
+Other example:
+
+![probabilities emails](email.png)
