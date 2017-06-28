@@ -7,3 +7,5 @@
 Example:
 
 ![linear decision surface](http://openclassroom.stanford.edu/MainFolder/courses/MachineLearning/exercises/ex7materials/twofeature_a.png)
+
+* If using very large data sets, Naive Bayes is better than SVM.
