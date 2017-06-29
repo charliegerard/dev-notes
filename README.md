@@ -3,10 +3,10 @@
 Inspired by @jbranchaud's [repo](https://github.com/jbranchaud/til) and @thoughtbot's [repo](https://github.com/thoughtbot/til)
 
 This project is a collection of small things I learn about different languages, frameworks and technologies.
-It consists of short markdown documents summarizing concepts or tips I'd like to share.
+It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 48 TILs
+Currently: 50 TILs
 
 ---
 
@@ -41,6 +41,7 @@ Currently: 48 TILs
 # Command_Line
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
+* [CLI tools](commandLine/cliTools.md)
 
 # Computer_Science_Jargon
 * [Pure functions](csJargon/pureFunctions.md)
@@ -108,6 +109,7 @@ Currently: 48 TILs
 * [Bayes rule](machine_learning/bayesRule.md)
 * [Naive Bayes](machine_learning/naiveBayes.md)
 * [SVM](machine_learning/svm.md)
+* [Decision tree](machine_learning/decisionTree.md)
 
 # Processing
 
