@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 50 TILs
+Currently: 51 TILs
 
 ---
 
@@ -18,6 +18,7 @@ Currently: 50 TILs
 * [CSS](#css)
 * [Electronics](#electronics)
 * [Front-End](#front_end)
+* [Git](#git)
 * [HTML5](#html5)
 * [JavaScript](#javascript)
   * [Design patterns](#design_patterns)
@@ -25,7 +26,7 @@ Currently: 50 TILs
   * [React](#react)
 * [Machine Learning](#machine_learning)
 * [Processing](#processing)
-* [Git](#git)
+* [Raspberry Pi](#raspberryPi)
 
 
 # Arduino
@@ -116,6 +117,10 @@ Currently: 50 TILs
 * [Formula to map out image pixels from two dimensional array to one dimensional array with the raw depth data of the Kinect](processing/rawDepthPixels.md)
 * [Using the map function](processing/mapFunction.md)
 * [Vectors and forces](processing/vectorsAndForces.md)
+
+# RaspberryPi
+
+* [Basic setup](raspberryPi/basicSetup.md)
 
 ---
 
