@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 52 TILs
+Currently: 53 TILs
 
 ---
 
@@ -20,6 +20,7 @@ Currently: 52 TILs
 * [Front-End](#front_end)
 * [Git](#git)
 * [HTML5](#html5)
+* [Java](#java)
 * [JavaScript](#javascript)
   * [Design patterns](#design_patterns)
   * [Node](#node)
@@ -79,6 +80,10 @@ Currently: 52 TILs
 * [What is a polyfill](html/polyfill.md)
 * [Preload](html/preload.md)
 * [Accessibility labels](html/accessibilityLabels.md)
+
+# Java
+
+* [void](java/void.md)
 
 # JavaScript
 
