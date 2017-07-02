@@ -38,3 +38,21 @@ Once the RaspPi is booted, you will see the graphical interface.
 Open the Terminal and write `startx`
 
 If the raspberry pi is asking for a password at any time, the default password for Raspbian is “raspberry”.
+
+#### Boot to terminal rather than desktop environment
+
+By default, the RPi will boot to desktop environment (graphical interface). For some programs, you'll get errors like the following:
+
+```
+server is already running for display 0
+```
+
+To fix this, you can run `sudo raspi-config` in the terminal and follow the following steps:
+
+* Select 3 - Boot Options
+* Select B1 - Desktop / CLI
+* Select B2 - Console Autologin
+
+and reboot.
+
+If there are still errors, maybe run `sudo apt-get install xserver-xorg-legacy`.
