@@ -11,4 +11,5 @@ SSH connection is disabled by default so here are the steps to to enable it:
 
 You should then be remotely connected to the RaspPi.
 
-To stop the ssh connection, run `close 0`.
+If your RaspberryPi is running with the desktop environment, run `close 0` if you want to stop the SSH connection.
+If you're only running the terminal, write `exit`.
