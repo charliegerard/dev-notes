@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 55 TILs
+Currently: 56 TILs
 
 ---
 
@@ -51,6 +51,7 @@ Currently: 55 TILs
 * [Higher-order functions](csJargon/higherOrderFunctions.md)
 * [Programming paradigms](csJargon/programmingParadigms.md)
 * [Basic CS terms](csJargon/BasicCsTerms.md)
+* [Interpreter vs compiler](csJargon/interpreterCompiler.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
