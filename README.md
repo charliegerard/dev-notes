@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 56 TILs
+Currently: 57 TILs
 
 ---
 
@@ -56,6 +56,7 @@ Currently: 56 TILs
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
 * [CSS Reset](css/cssReset.md)
+* [Feature queries](css/featureQueries.md)
 
 # Electronics
 * [Current](electronics/current.md)
