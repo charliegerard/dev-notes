@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 58 TILs
+Currently: 60 TILs
 
 ---
 
@@ -53,6 +53,7 @@ Currently: 58 TILs
 * [Basic CS terms](csJargon/BasicCsTerms.md)
 * [Interpreter vs compiler](csJargon/interpreterCompiler.md)
 * [Expressions](csJargon/expressions.md)
+* [Compound assignment](csJargon/compoundAssignment.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
@@ -98,6 +99,7 @@ Currently: 58 TILs
 * [Event Delegation](javascript/eventDelegation.md)
 * [AMD - Asynchronous Module Definition](javascript/amd.md)
 * [Hoisting](javascript/hoisting.md)
+* [Coercion](javascript/coercion.md)
 
 ### Node
 
