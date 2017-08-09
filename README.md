@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 60 TILs
+Currently: 61 TILs
 
 ---
 
@@ -100,6 +100,7 @@ Currently: 60 TILs
 * [AMD - Asynchronous Module Definition](javascript/amd.md)
 * [Hoisting](javascript/hoisting.md)
 * [Coercion](javascript/coercion.md)
+* [var vs. let](javascript/varVsLet.md)
 
 ### Node
 
