@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 61 TILs
+Currently: 63 TILs
 
 ---
 
@@ -101,6 +101,8 @@ Currently: 61 TILs
 * [Hoisting](javascript/hoisting.md)
 * [Coercion](javascript/coercion.md)
 * [var vs. let](javascript/varVsLet.md)
+* [IIFE](javascript/iife.md)
+* [Transpiling](javascript/transpiling.md)
 
 ### Node
 
