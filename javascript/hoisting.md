@@ -50,3 +50,35 @@ var y;
 console.log(x + " " + y);
 y = 2;
 ```
+
+### Functions are hoisted first
+
+Consider the example below:
+
+```javascript
+foo();
+
+var foo;
+
+function foo(){
+  console.log(1);
+}
+
+foo = function(){
+  console.log(2);
+}
+```
+
+1 will be printed before 2 because the code sample with hoisting is interpreted as:
+
+```javascript
+function foo(){
+  console.log(1);
+}
+
+foo();
+
+foo = function(){
+  console.log(2)
+}
+```
