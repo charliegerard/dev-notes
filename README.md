@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 65 TILs
+Currently: 66 TILs
 
 ---
 
@@ -55,6 +55,7 @@ Currently: 65 TILs
 * [Expressions](csJargon/expressions.md)
 * [Compound assignment](csJargon/compoundAssignment.md)
 * [Scope](csJargon/scope.md)
+* [Closure](csJargon/closure.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
