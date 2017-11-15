@@ -1,6 +1,6 @@
 # Closure
 
-Closure represents when a function accesses a variable even outside of its lexical scope.
+Closure is when a function can access its lexical scope even outside of its lexical scope.
 
 ```javascript
 function foo(){
