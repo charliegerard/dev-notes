@@ -10,3 +10,9 @@ Allows a better first load performance as loading the page the first time does n
 
 *Server-side rendering:*
 *You can use this method to generate HTML on the server and send the markup down on the initial request for faster page loads and to allow search engines to crawl your pages for SEO purposes.*
+
+![graphic of server-side rendering](ssr.png)
+
+![graphic of client-side rendering](csr.png)
+
+*source: [https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)*
