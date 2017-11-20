@@ -97,3 +97,17 @@ var bar = foo.bind(obj);
 var b = bar(3); // 2 3
 console.log(b) // 5
 ```
+
+#### `new` binding
+---
+
+Using the `new` operator in front of the name of a function in JavaScript does a *constructor call*. The newly constructed object is set as the `this` binding for that function call.
+
+```javascript
+function foo(a){
+    this.a = a;
+}
+
+var bar = new foo(2);
+console.log(bar.a); // 2
+``` 
