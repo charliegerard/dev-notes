@@ -37,3 +37,10 @@ The JavaScript runtime contains a **message queue**, a list of messages to be pr
 When the stack is empty, the event loop will take messages from the callback queue and add them onto the call stack to be executed.
 
 ![JS Event Loop](https://cdn-images-1.medium.com/max/1600/1*-MMBHKy_ZxCrouecRqvsBg.png)
+
+---
+
+#### setTimeout
+
+The `setTimeout` function is usually called with 2 arguments, a message to add to a queue and a time value in milliseconds. This time value represents the minimum delay after which the message will be executed.
+However, if there are already messages in the queue, the delay will be more than the time value indicated as it will have to wait for the other messages to be executed first. 
