@@ -64,3 +64,6 @@ A total of **7 nodes** are being processed before the destination is reached.
 Only **3 nodes** have been processed before reaching the destination.
 
 **As a result, BFS is much faster to solve shortest paths problems.**
+
+
+[Source](https://medium.freecodecamp.org/deep-dive-into-graph-traversals-227a90c6a261)
