@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 75 TILs
+Currently: 76 TILs
 
 ---
 
@@ -138,6 +138,7 @@ Currently: 75 TILs
 * [SVM](machine_learning/svm.md)
 * [Decision tree](machine_learning/decisionTree.md)
 * [Classification and Regression](machine_learning/classificationRegression.md)
+* [Supervised vs Unsupervised](machine_learning/supervisedVsUnsupervised.md)
 
 # Processing
 
