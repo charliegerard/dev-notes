@@ -4,7 +4,7 @@ Inheritance controls what happens when no value is specified for a property on a
 
 ## Inherited properties
 
-When no value for an inherited property has been specified on an element, the element gets the **computed value** of that property on its parent element.
+When no value for an inherited property has been specified on an element, the element gets the **computed value** (value transferred from parent to child during inheritance) of that property on its parent element.
 
 An example of inherited property is the **color** property
 
