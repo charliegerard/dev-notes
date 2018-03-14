@@ -123,3 +123,5 @@ bruno.bark() // "Woof, I am Bruno"
 
 In the case above, we create a barker, driver and killer that we then merge into a new object and return it as part of our murderRobotDog object.
 
+Based on [this article](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
+
