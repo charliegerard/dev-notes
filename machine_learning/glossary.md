@@ -20,6 +20,9 @@ Example:
 
 * **Cost function**: *coming later*
 
-* Differentiable plasticity:
+* **Differentiable plasticity**: Neural networks are usually trained to a stopping point through gradient descent, which incrementally adjusts the connections of a network based on its perfomance over many trials. Once the training is complete, the network is fixed and the connections can no longer change; barring any later re-training. The network stops learning at the moment the training ends.
+Biological brains, however, have *plasticity*, the ability for connections between neurons to change continually and automatically throughout life.
+**Differentiable plasticity** is a method that lets us train the behavior of plastic connections through gradient descent.
+
 
 * If using very large data sets, Naive Bayes is better than SVM.
