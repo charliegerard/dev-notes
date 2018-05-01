@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 83 TILs
+Currently: 84 TILs
 
 ---
 
@@ -120,6 +120,7 @@ Currently: 83 TILs
 * [Objects](javascript/objects.md)
 * [Tree Shaking](javascript/treeShaking.md)
 * [Implicit shadowing](javascript/implicitShadowing.md)
+* [Class - Prototypal inheritance](javascript/class.md)
 
 ### Node
 
