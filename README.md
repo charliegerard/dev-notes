@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 85 TILs
+Currently: 87 TILs
 
 ---
 
@@ -16,6 +16,7 @@ Currently: 85 TILs
 * [Command line](#command_line)
 * [Computer Science Jargon](#computer_science_jargon)
 * [CSS](#css)
+* [Data Structures and Algorithms](#data_structures_algorithms)
 * [Electronics](#electronics)
 * [Front-End](#front_end)
 * [Git](#git)
@@ -70,6 +71,10 @@ Currently: 85 TILs
 * [Feature queries](css/featureQueries.md)
 * [Inherited & Non-inherited Properties](css/inheritedAndNonInheritedProperties.md)
 * [CSS Specificity](css/specificity.md)
+
+# Data_Structures_Algorithms
+* [Binary search](dataStructuresAlgorithms/binarySearch.md)
+* [Linear search](dataStructuresAlgorithms/linearSearch.md)
 
 # Electronics
 * [Current](electronics/current.md)
