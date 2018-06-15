@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 88 TILs
+Currently: 89 TILs
 
 ---
 
@@ -76,6 +76,7 @@ Currently: 88 TILs
 * [Binary search](dataStructuresAlgorithms/binarySearch.md)
 * [Linear search](dataStructuresAlgorithms/linearSearch.md)
 * [Insertion sort](dataStructuresAlgorithms/insertionSort.md)
+* [Big O notation](dataStructuresAlgorithms/bigONotation.md)
 
 # Electronics
 * [Current](electronics/current.md)
@@ -164,6 +165,7 @@ Currently: 88 TILs
 
 # Random
 * [Save a video with transparent background to use it in AR in Unity](random/videoTransparentBackground.md)
+* [What happens when you enter a URL in the browser and press 'enter'](random/urlBrowser.md)
 
 # RaspberryPi
 
