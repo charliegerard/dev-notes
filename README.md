@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 92 TILs
+Currently: 93 TILs
 
 ---
 
@@ -64,6 +64,7 @@ Currently: 92 TILs
 * [Composition & Inheritance](csJargon/compositionInheritance.md)
 * [Predicate function](csJargon/predicateFunction.md)
 * [Type introspection](csJargon/typeIntrospection.md)
+* [Abstract syntax tree](csJargon/ast.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
