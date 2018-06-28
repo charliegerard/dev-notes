@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 93 TILs
+Currently: 94 TILs
 
 ---
 
@@ -81,6 +81,7 @@ Currently: 93 TILs
 * [Difference stack and queue](dataStructuresAlgorithms/stackQueue.md)
 * [Singly-Linked list](dataStructuresAlgorithms/singlyLinkedList.md)
 * [Doubly-linked list](dataStructuresAlgorithms/doublyLinkedList.md)
+* [Memoization](dataStructuresAlgorithms/memoization.md)
 
 # Electronics
 * [Current](electronics/current.md)
