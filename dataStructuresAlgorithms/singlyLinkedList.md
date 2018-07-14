@@ -16,3 +16,19 @@ A node has 2 fields: **data** and **next**.
 The very first node in a linked list is called **head** and the last is called **tail**.
 
 
+## Operations of a singly-linked list
+
+* `_length` retrieves the number of nodes in the list.
+* `head` assigns a node as the head of the list.
+* `add(value)` adds a node to the list.
+* `searchNodeAt(position)` searches for a node at n position in the list.
+* `remove(position)` removes a node from the list.
+
+For details on how to implement these operations, see [this article](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
+
+The operations in a singly-linked list are only **uni-directional** as they always begin from the beginning of the list to the end of it.
+
+If we want bi-directional operations, we need to look at [doubly-linked lists](doublyLinkedList.md)
+
+
+
