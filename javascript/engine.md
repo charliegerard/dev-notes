@@ -228,6 +228,24 @@ a = 'hello'; // the object inside of x has now 0 reference to it but there is st
 b = null; // there are now 0 reference to the object y so it can be garbage collected.
 ```
 
+
+### Limitation: cycles
+
+In the example below, two objects are created and reference each other, hence creating a **cycle**. After the function `f` is called, the 2 objects will be out of scope so they could be garbage collected. However, the reference-counting algorithm considers that, as each object references the other one, they cannot be garbage-collected.
+
+```javascript
+function f(){
+  var a = {}
+  var a2 = {}
+  a.b = a2
+  a2.b = a
+
+  return;
+}
+
+f()
+```
+
 ### Mark-and-sweep algorithm
 
 3 steps:
@@ -239,6 +257,10 @@ b = null; // there are now 0 reference to the object y so it can be garbage coll
 * Garbage collector frees all memory pieces that are not marked as active and returns the memory to the OS.
 
 ![mark and sweep](https://cdn-images-1.medium.com/max/1600/1*WVtok3BV0NgU95mpxk9CNg.gif)
+
+### Cycles
+
+With the mark and sweep algorithm, cycles are not a problem anymore. After the function call, the 2 objects would be unreachable from the global object so they would be found unreachable by the garbage collector and would then be freed.
 
 
 ---
