@@ -20,4 +20,4 @@ Operations:
 * `searchNodeAt(position)`
 * `remove(position)`
 
-
+For details on how to implement doubly-linked lists in JavaScript, check out [this article](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
