@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 97 TILs
+Currently: 98 TILs
 
 ---
 
@@ -85,6 +85,7 @@ Currently: 97 TILs
 * [Memoization](dataStructuresAlgorithms/memoization.md)
 * [Depth-First Search](dataStructuresAlgorithms/dfs.md)
 * [Breadth-first search](dataStructureAlgorithms/bfs.md)
+* [Hash tables](dataStructureAlgorithms/hashTables.md)
 
 # Electronics
 * [Current](electronics/current.md)
