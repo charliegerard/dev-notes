@@ -157,7 +157,7 @@ Currently: 100 TILs
 * [Module pattern](javascript/design_patterns/modulePattern.md)
 
 
-# Machine-Learning
+# Machine Learning
 
 * [Glossary](machine_learning/glossary.md)
 * [Bayes rule](machine_learning/bayesRule.md)
