@@ -13,20 +13,20 @@ Currently: 100 TILs
 # Categories
 
 * [Arduino](#arduino)
-* [Command line](#command_line)
-* [Computer Science Jargon](#computer_science_jargon)
+* [Command line](#command-line)
+* [Computer Science Jargon](#computer-science-jargon)
 * [CSS](#css)
-* [Data Structures and Algorithms](#data_structures_algorithms)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Electronics](#electronics)
-* [Front-End](#front_end)
+* [Front-End](#front-end)
 * [Git](#git)
 * [HTML5](#html5)
 * [Java](#java)
 * [JavaScript](#javascript)
-  * [Design patterns](#design_patterns)
+  * [Design patterns](#design-patterns)
   * [Node](#node)
   * [React](#react)
-* [Machine Learning](#machine_learning)
+* [Machine Learning](#machine-learning)
 * [Processing](#processing)
 * [Random](#random)
 * [Raspberry Pi](#raspberryPi)
@@ -42,12 +42,12 @@ Currently: 100 TILs
 * [Difference Voltage and Current](arduino/voltageCurrent.md)
 * [Ohms](arduino/ohms.md)
 
-# Command_Line
+# Command Line
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 * [CLI tools](commandLine/cliTools.md)
 
-# Computer_Science_Jargon
+# Computer Science Jargon
 * [Pure functions](csJargon/pureFunctions.md)
 * [Tight coupling vs loose coupling](csJargon/tightCouplingLooseCoupling.md)
 * [Higher-order functions](csJargon/higherOrderFunctions.md)
@@ -74,7 +74,7 @@ Currently: 100 TILs
 * [Inherited & Non-inherited Properties](css/inheritedAndNonInheritedProperties.md)
 * [CSS Specificity](css/specificity.md)
 
-# Data_Structures_Algorithms
+# Data Structures and Algorithms
 * [Binary search](dataStructuresAlgorithms/binarySearch.md)
 * [Linear search](dataStructuresAlgorithms/linearSearch.md)
 * [Insertion sort](dataStructuresAlgorithms/insertionSort.md)
@@ -91,7 +91,7 @@ Currently: 100 TILs
 # Electronics
 * [Current](electronics/current.md)
 
-# Front_End
+# Front-End
 * [Graceful degradation vs Progressive Enhancement](frontEnd/gracefulDegradationVsProgressiveEnhancement.md)
 * [Flash of Unstyled Content (FOUC)](frontEnd/FOUC.md)
 * [Console.time()](frontEnd/consoleTime.md)
@@ -151,13 +151,13 @@ Currently: 100 TILs
 
 * [Mixins](javascript/react/mixins.md)
 
-### Design_patterns
+### Design patterns
 
 * [Constructor Pattern](javascript/design_patterns/constructorPattern.md)
 * [Module pattern](javascript/design_patterns/modulePattern.md)
 
 
-# Machine_Learning
+# Machine-Learning
 
 * [Glossary](machine_learning/glossary.md)
 * [Bayes rule](machine_learning/bayesRule.md)
