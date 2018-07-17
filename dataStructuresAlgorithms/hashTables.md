@@ -26,7 +26,7 @@ Every single word has to map with one of the 26 letters of the alphabet.
 **26 hash buckets.**
 
 If we wanted to find the name of a person starting with "Z", we could take that as input, pass it into a hash function and get the index in the array.
-It is easier to find a single element in a huge data set once we know the key to know where it lives.
+It is easier to find a single element in a huge data set once we know the key where it lives.
 
 All words starting with the letter A will live at the same hash bucket.
 
