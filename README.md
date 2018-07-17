@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 99 TILs
+Currently: 100 TILs
 
 ---
 
@@ -177,6 +177,7 @@ Currently: 99 TILs
 # Random
 * [Save a video with transparent background to use it in AR in Unity](random/videoTransparentBackground.md)
 * [What happens when you enter a URL in the browser and press 'enter'](random/urlBrowser.md)
+* [How does DNS work](random/dns.md)
 
 # RaspberryPi
 
