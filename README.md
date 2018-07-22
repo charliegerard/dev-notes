@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 101 TILs
+Currently: 102 TILs
 
 ---
 
@@ -142,6 +142,7 @@ Currently: 101 TILs
 * [Class - Prototypal inheritance](javascript/class.md)
 * [Delegation](javascript/delegation.md)
 * [The JavaScript engine](javascript/engine.md)
+* [The Web Storage API](javascript/webStorageApi.md)
 
 ### Node
 
