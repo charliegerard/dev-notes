@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 103 TILs
+Currently: 104 TILs
 
 ---
 
@@ -73,6 +73,7 @@ Currently: 103 TILs
 * [Feature queries](css/featureQueries.md)
 * [Inherited & Non-inherited Properties](css/inheritedAndNonInheritedProperties.md)
 * [CSS Specificity](css/specificity.md)
+* [:empty](css/empty.md)
 
 # Data Structures and Algorithms
 * [Binary search](dataStructuresAlgorithms/binarySearch.md)
