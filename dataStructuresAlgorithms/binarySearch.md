@@ -9,24 +9,18 @@ In each iteration, the amount of remaining number is halved, making binary searc
 Example code in JavaScript:
 
 ```javascript
-const numbers = [1,2,3,4,5,6,7]; // array already sorted.
-
-const binarySearch = numberToFind => {
-  let low = 0;
-  let high = numbers.length;
-
-  while(low <= high){
-    let middle = Math.floor((low + high) / 2);
-
-    if(numberToFind === numbers[middle]){
-      return middle;
+const binarySearch = (numbers, numberToFind, min, max) => {
+  while(min <= max){
+    let middle = Math.floor((min + max) / 2);
+    if(numberToFind > numbers[middle]){
+      return binarySearch(numbers, numberToFind, middle + 1, max);
     } else if(numberToFind < numbers[middle]){
-      high = middle - 1;
-    } else if(numberToFind > numbers[middle]){
-      low = middle + 1;
+      return binarySearch(numbers, numberToFind, min, middle - 1);
+    } else {
+      return middle;
     }
   }
 }
 
-console.log(binarySearch(6)); // 5
+console.log(binarySearch(numbers, 6, 0, numbers.length - 1)); // 5
 ```
