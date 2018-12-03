@@ -9,48 +9,78 @@ It recursively continues to break down the collection before combining them back
 
 Three main operations: partition, swap, and sort.
 
+![quick sort](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
+
 What we are trying to achieve is to partition the list so that everything to the **left of the pivot is less than the pivot** and everything on the **right is greater than the pivot**.
 
-Example of implementation:
+### Example of implementation:
+
+#### Naive solution
 
 ```javascript
-function quickSort(list, left, right){
-  var pivot, partitionIndex;
+const list = [4,7,1,2,0,3,8]
 
-  if(left < right){
-    pivot = right;
-    partitionIndex = partition(list, pivot, left, right);
-    // move the right index to the left
-    quickSort(list, left, partitionIndex - 1);
-    // move the left index to the right;
-    quickSort(list, partitionIndex + 1, right);
+const quickSort = list => {
+  if(list.length < 2){
+    return list
+  }
+  let pivotIndex = list.length - 1;
+  let pivot = list[pivotIndex];
+  let left = [];
+  let right = [];
+
+  for(var i = 0; i < pivotIndex; i++){
+    list[i] < pivot ? left.push(list[i]) : right.push(list[i]);
   }
 
+  let result = [...quickSort(left), pivot, ...quickSort(right)];
+  return result;
+}
+
+console.log(quickSort(list));
+```
+
+This solution is naive because we are creating a left and right array that we are then merging which increases the space complexity.
+
+Instead, we could do **in-place sorting**.
+
+#### More complex solution:
+
+```javascript
+const list = [5,8,1,4,2,6,7,3,9]
+
+const quickSort = (list, left, right) => {
+  if(left < right){
+    let pivotIndex = partition(list, left, right);
+    quickSort(list, left, pivotIndex - 1);
+    quickSort(list, pivotIndex + 1, right);
+  }
   return list;
 }
 
-function partition(list, pivot, left, right){
-  var pivotValue = list[pivot];
-  partitionIndex = left;
+const partition = (list, left, right) => {
+  let pivot = right;
+  let pivotValue = list[pivot];
 
-  for(var i = left; i < right; i++){
-    if(list[i] < pivotValue){
-      swap(list, i, partitionIndex);
-      partitionIndex++;
+  while(left < right){
+    while(list[left] < pivotValue){
+      left++
     }
+    while(list[right] > pivotValue){
+      right--
+    }
+
+    swap(list, left, right);
   }
-  swap(list, right, partitionIndex);
-  return partitionIndex;
+  return right;
 }
 
-function swap(list, i, j){
-  var temp = list[j];
-  list[j] = list[i];
-  list[i] = temp;
+const swap = (list, left, right) => {
+  let temp = list[left];
+  list[left] = list[right];
+  list[right] = temp;
 }
 
-const list = [3,5,2,7,9,8,1];
-const sortedList = quickSort(list, 0, list.length-1);
-console.log(sortedList);
+console.log(quickSort(list, 0, list.length - 1))
 ```
 

@@ -2,6 +2,8 @@
 
 The concept of the merge sort algorithm relies on the fact that it's easier to sort 2 sorted arrays rather than one unsorted one.
 
+![merge sort](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+
 We start with one array that we split in the middle into two smaller arrays and repeat this until we reach single-item arrays.
 
 ```
