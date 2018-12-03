@@ -12,3 +12,20 @@ Sorting algorithm that builds a sorted array one element at a time.
 If we take an array made of 10 elements.
 
 The best case scenario will have 9 comparisons and the worst case scenario will produce 45 comparisons.
+
+```javascript
+const list = [3,2,6,9,4,1,0]
+
+const insertionSort = (list) => {
+  for(var i = 1; i < list.length; i++){
+    let temp = list[i]
+    for(var j = i-1; j > -1 && list[j] > temp; j--){
+      list[j+1] = list[j]
+    }
+    list[j+1] = temp
+  }
+  return list
+}
+
+console.log(insertionSort(list))
+```
