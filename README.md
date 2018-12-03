@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 108 TILs
+Currently: 109 TILs
 
 ---
 
@@ -93,6 +93,7 @@ Currently: 108 TILs
 * [Quick sort](dataStructureAlgorithms/quickSort.md)
 * [Merge sort](dataStructureAlgorithms/mergeSort.md)
 * [Recursive looping](dataStructuresAlgorithms/recursiveLooping.md)
+* [Bubble sort](dataStructureAlgorithms/bubbleSort.md)
 
 # Electronics
 * [Current](electronics/current.md)
