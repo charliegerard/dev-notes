@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 113 TILs
+Currently: 114 TILs
 
 ---
 
@@ -77,6 +77,7 @@ Currently: 113 TILs
 * [CSS Specificity](css/specificity.md)
 * [:empty](css/empty.md)
 * [widows](css/widows.md)
+* [Difference resetting and normalizing CSS](css/resettingNormalizing.md)
 
 # Data Structures and Algorithms
 * [Binary search](dataStructuresAlgorithms/binarySearch.md)
