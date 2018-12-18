@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 110 TILs
+Currently: 112 TILs
 
 ---
 
@@ -17,6 +17,7 @@ Currently: 110 TILs
 * [Computer Science Jargon](#computer-science-jargon)
 * [CSS](#css)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
+* [Design patterns](#design-patterns)
 * [Electronics](#electronics)
 * [Front-End](#front-end)
 * [Git](#git)
@@ -95,6 +96,10 @@ Currently: 110 TILs
 * [Recursive looping](dataStructuresAlgorithms/recursiveLooping.md)
 * [Bubble sort](dataStructureAlgorithms/bubbleSort.md)
 * [Selection sort](dataStructureAlgorithms/selectionSort.md)
+
+# Design patterns
+* [Intro](designPatterns/intro.md)
+* [Creational patterns](designPatterns/creationalPatterns.md)
 
 # Electronics
 * [Current](electronics/current.md)
