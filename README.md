@@ -78,6 +78,7 @@ Currently: 114 TILs
 * [:empty](css/empty.md)
 * [widows](css/widows.md)
 * [Difference resetting and normalizing CSS](css/resettingNormalizing.md)
+* [The stacking context](css/stackingContext.md)
 
 # Data Structures and Algorithms
 * [Binary search](dataStructuresAlgorithms/binarySearch.md)
