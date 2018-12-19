@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 116 TILs
+Currently: 117 TILs
 
 ---
 
@@ -69,6 +69,7 @@ Currently: 116 TILs
 * [Dynamic programming](csJargon/dynamicProgramming.md)
 * [First-class citizen](csJargon/firstClassCitizen.md)
 * [Anonymous functions](csJargon/anonymousFunctions.md)
+* [Curry functions](csJargon/curryFunctions.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
