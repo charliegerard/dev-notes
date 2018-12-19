@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 117 TILs
+Currently: 118 TILs
 
 ---
 
@@ -162,6 +162,7 @@ Currently: 117 TILs
 * [The Web Storage API](javascript/webStorageApi.md)
 * [Difference native objects and host objects](javascript/NativeAndHostObjects.md)
 * [Difference call(), apply() and bind()](javascript/differenceCallApplyBind.md)
+* [Spread syntax](javascript/spreadSyntax.md)
 
 ### Node
 
