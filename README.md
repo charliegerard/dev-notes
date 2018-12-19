@@ -68,6 +68,7 @@ Currently: 114 TILs
 * [Abstract syntax tree](csJargon/ast.md)
 * [Dynamic programming](csJargon/dynamicProgramming.md)
 * [First-class citizen](csJargon/firstClassCitizen.md)
+* [Anonymous functions](csJargon/anonymousFunctions.md)
 
 # CSS
 * [Mix Blend Mode](css/mixBlendMode.md)
