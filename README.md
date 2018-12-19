@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 114 TILs
+Currently: 115 TILs
 
 ---
 
@@ -159,6 +159,7 @@ Currently: 114 TILs
 * [Delegation](javascript/delegation.md)
 * [The JavaScript engine](javascript/engine.md)
 * [The Web Storage API](javascript/webStorageApi.md)
+* [Difference native objects and host objects](javascript/NativeAndHostObjects.md)
 
 ### Node
 
