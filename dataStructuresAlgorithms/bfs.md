@@ -31,4 +31,59 @@ Undirected graph: O(V + 2E)
 
 ---
 
+## Code sample
+
+![bfs graph](https://he-s3.s3.amazonaws.com/media/uploads/2ffb073.jpg)
+
+Considering the graph above, here's a code sample in JavaScript to get the distance from the root node to each other node
+
+```javascript
+function bfs(graph, root){
+  let distances = {}
+
+  for(var i = 0; i < graph.length; i++){
+    distances[i] = Infinity; // Starting by setting all nodes to infinity, meaning they are not reachable by the root node.
+  }
+
+  distances[root] = 0;
+
+  var queue = [root];
+  var current;
+
+  while(queue.length != 0){
+    current = queue.shift(); //popping off a node from the queue to traverse.
+
+    var connectedToCurrent = graph[current];
+    var neighborIds = [];
+    var ids = connectedToCurrent.indexOf(1);
+
+    while(ids != -1){
+      neighborIds.push(ids);
+      ids = connectedToCurrent.indexOf(1, ids + 1);
+    }
+
+    for(var j=0; j < neighborIds.length; j++){
+      if(distances[neighborIds[j]] == Infinity){
+        distances[neighborIds[j]] = distances[current] + 1;
+        queue.push(neighborIds[j]);
+      }
+    }
+  }
+  return distances
+
+}
+
+var graph = [
+  [0,1,2,0,0], // Source node's connections
+  [1,0,0,0,0], // Node 1 connections
+  [1,0,0,0,0], // Node 2 connections
+  [0,0,0,0,0], // ....
+  [0,0,0,0,0]
+]
+
+console.log(bfs(graph, 1)) // returns { '0': 1, '1': 0, '2': Infinity, '3': Infinity, '4': Infinity }
+```
+
+
+
 More info: https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255
