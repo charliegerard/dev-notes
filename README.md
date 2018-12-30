@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 120 TILs
+Currently: 122 TILs
 
 ---
 
@@ -164,6 +164,7 @@ Currently: 120 TILs
 * [Difference call(), apply() and bind()](javascript/differenceCallApplyBind.md)
 * [Spread syntax](javascript/spreadSyntax.md)
 * [Rest syntax](javascript/restSyntax.md)
+* [Map object](javascript/mapObject.md)
 
 ### Node
 
@@ -212,6 +213,7 @@ Currently: 120 TILs
 
 ### Front-end security
 * [ClickJacking](security/feSecurity/clickJacking.md)
+* [CSRF](security/feSecurity/csrf.md)
 
 ---
 
