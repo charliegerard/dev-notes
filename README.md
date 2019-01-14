@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 124 TILs
+Currently: 125 TILs
 
 ---
 
@@ -47,6 +47,7 @@ Currently: 124 TILs
 
 * [How to kill all instances of Node.js servers](commandLine/killNodeServers.md)
 * [CLI tools](commandLine/cliTools.md)
+* [Splitting a terminal screen](commandLine/splitScreen.md)
 
 # Computer Science Jargon
 * [Pure functions](csJargon/pureFunctions.md)
