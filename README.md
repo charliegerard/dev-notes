@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 125 TILs
+Currently: 126 TILs
 
 ---
 
@@ -166,6 +166,7 @@ Currently: 125 TILs
 * [Spread syntax](javascript/spreadSyntax.md)
 * [Rest syntax](javascript/restSyntax.md)
 * [Map object](javascript/mapObject.md)
+* [Pass by value/reference](javascript/passByValueReference.md)
 
 ### Node
 
