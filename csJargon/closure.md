@@ -1,6 +1,7 @@
 # Closure
 
 Closure is when a function can access its lexical scope even outside of its lexical scope.
+Other definition: **A closure is an inner function that has access to the variables in the outer function's scope.**
 
 ```javascript
 function foo(){
