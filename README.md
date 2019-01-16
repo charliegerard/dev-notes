@@ -141,7 +141,7 @@ Currently: 126 TILs
 # JavaScript
 
 * [JavaScript security with Obfuscators](javascript/obfuscators.md)
-* [Array destructuring](javascriot/destructuring.md)
+* [Array destructuring](javascript/destructuring.md)
 * [Different types of functions](javascript/typesFunctions.md)
 * [Event Delegation](javascript/eventDelegation.md)
 * [AMD - Asynchronous Module Definition](javascript/amd.md)
