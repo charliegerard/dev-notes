@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 130 TILs
+Currently: 131 TILs
 
 ---
 
@@ -108,6 +108,7 @@ Currently: 130 TILs
   * [Singleton](designPatterns/creationalPatterns/singleton.md)
   * [Constructor pattern](designPatterns/creationalPatterns/constructorPattern.md)
   * [Module pattern](designPatterns/creationalPatterns/modulePattern.md)
+  * [Revealing Module pattern](designPatterns/creationalPatterns/revealingModulePattern.md)
 * [Structural patterns](designPatterns/structuralPatterns.md)
 * [Behavioral patterns](designPatterns/behavioralPatterns.md)
 
