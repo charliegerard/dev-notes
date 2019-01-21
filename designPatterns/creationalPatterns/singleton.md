@@ -13,39 +13,62 @@ However, other design patterns such as the Factory pattern and Dependency inject
 ```javascript
 var store = (function(){
   var data = [];
+  var instance;
 
-  function add(item){
-    data.push(item)
+  function init(){
+    function add(item){
+      data.push(item)
+    }
+
+    function get(id){
+      return data.find(item => {
+        return item.id === id;
+      })
+    }
+
+    return{
+      addData: data,
+      getData: get
+    }
   }
 
-  function get(id){
-    return data.find(item => {
-      return item.id === id;
-    })
-  }
-
-  return{
-    add: add,
-    get: get
+  return {
+    getInstance: function(){
+      if(!instance){
+        instance = init()
+      }
+      return instance;
+    }
   }
 })();
+
+var storeA = store.getInstance();
+var storeB = store.getInstance();
+
+console.log(storeA === storeB);
 ```
 
 #### ES6:
 
 ```javascript
 class UserStore{
+  static instance;
+
   constructor(){
     this.data = [];
-  }
+    if(instance){
+      return instance;
+    }
 
-  add(item){
-    this.data.push(item);
+    this.instance = this;
   }
 }
 
 const instance = new UserStore();
-Object.freeze(instance)
+const otherInstance = new UserStore();
+console.log(instance === otherInstance) // true
 
 export default instance;
 ```
+
+Singletons can be a sign we need to re-evaluate our design. They can be an indication that modules in our system are tightly coupled or that logic is overly spread across multiple parts of the codebase.
