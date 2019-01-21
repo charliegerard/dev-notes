@@ -4,4 +4,4 @@ Over the years, developers have been facing the same problems over and over agai
 
 They represent years and years of untold redesign and refactoring by developers.
 
-Design patterns are of different types (eg. Creational patterns, Structural patterns, etc...) and each type has different implementations (Builder pattern, Singleton, etc...)
+Design patterns are of different types (eg. Creational, Structural, Behavioral) and each type has different implementations (Builder pattern, Singleton, etc...)
