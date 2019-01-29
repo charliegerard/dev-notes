@@ -34,3 +34,22 @@ The h1 will be purple.
 ---
 
 ### **As per CSS rules, directly targeted elements will always take precedence over rules which an element inherits from its ancestor.**
+
+## Calculating the specificity of a selector
+
+The specificity of a selector can be represented as a 3 digits string with a hyphen.
+* 1st digit represents the number of IDs
+* 2nd digit representes number of classes
+* 3rd digit represents number of type selectors
+
+```css
+#red.blue // 1-1-0
+
+#green // 1-0-0
+
+div.yellow#red // 1-1-1
+
+.red.blue.yellow // 0-3-0
+```
+
+In the example above, we start from the right, to the left and if we compare `div.yellow#red` and `red.blue.yellow`, the former has a higher specificity.
