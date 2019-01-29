@@ -18,6 +18,7 @@ Currently: 132 TILs
 * [CSS](#css)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Design patterns](#design-patterns)
+* [DevOps](#devops)
 * [Electronics](#electronics)
 * [Front-End](#front-end)
 * [Git](#git)
@@ -113,7 +114,7 @@ Currently: 132 TILs
 * [Behavioral patterns](designPatterns/behavioralPatterns.md)
 
 # DevOps
-* [Docker](random/docker.md)
+* [Docker](devops/docker.md)
 
 # Electronics
 * [Current](electronics/current.md)
