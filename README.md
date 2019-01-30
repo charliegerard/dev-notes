@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 132 TILs
+Currently: 133 TILs
 
 ---
 
@@ -32,6 +32,8 @@ Currently: 132 TILs
 * [Processing](#processing)
 * [Random](#random)
 * [Raspberry Pi](#raspberryPi)
+* [Security](#security)
+* [Software Development](#software-development)
 
 
 # Arduino
@@ -227,6 +229,9 @@ Currently: 132 TILs
 ### Front-end security
 * [ClickJacking](security/feSecurity/clickJacking.md)
 * [CSRF](security/feSecurity/csrf.md)
+
+# Software Development
+* [SOLID principles](softwareDev/solid.md)
 
 ---
 
