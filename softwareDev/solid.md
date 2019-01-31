@@ -48,3 +48,5 @@ Consider an interface called `Animal` which would have `eat`, `sleep`, `walk` me
 ## D - Dependency inversion principle
 
 High level modules should not depend on low level modules, they should depend on abstractions.
+
+Changes to low level modules should not break high-level ones.
