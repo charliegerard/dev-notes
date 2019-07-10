@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 135 TILs
+Currently: 136 TILs
 
 ---
 
@@ -138,6 +138,7 @@ Currently: 135 TILs
 * [How to fix most recent commit](git/amend.md)
 * [How to untrack node_modules folder when already commited to Github](git/untrack_node_modules.md)
 * [How to find which commit introduced a bug](git/git_bisect.md)
+* [Git gc](git/gc.md)
 
 # HTML5
 
@@ -219,7 +220,11 @@ Currently: 135 TILs
 * [What happens when you enter a URL in the browser and press 'enter'](random/urlBrowser.md)
 * [How does DNS work](random/dns.md)
 * [Take a full size screenshot in Chrome](random/screenshot.md)
+<<<<<<< HEAD
 * [Useful shortcuts in VSCode](random/usefulShortcutsVSCode.md)
+=======
+* [Keyboard shortcuts on websites/apps](random/keyboardShortcutsWebsites.md)
+>>>>>>> 98aabebc1e2b523dccc6ea2ff29d68bb7c7ab30d
 
 # RaspberryPi
 
