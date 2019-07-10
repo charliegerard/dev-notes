@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 134 TILs
+Currently: 135 TILs
 
 ---
 
@@ -219,6 +219,7 @@ Currently: 134 TILs
 * [What happens when you enter a URL in the browser and press 'enter'](random/urlBrowser.md)
 * [How does DNS work](random/dns.md)
 * [Take a full size screenshot in Chrome](random/screenshot.md)
+* [Useful shortcuts in VSCode](random/usefulShortcutsVSCode.md)
 
 # RaspberryPi
 
