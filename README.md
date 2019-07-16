@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 136 TILs
+Currently: 137 TILs
 
 ---
 
@@ -139,6 +139,7 @@ Currently: 136 TILs
 * [How to untrack node_modules folder when already commited to Github](git/untrack_node_modules.md)
 * [How to find which commit introduced a bug](git/git_bisect.md)
 * [Git gc](git/gc.md)
+* [Remove file/folder from git history](git/git_filter_branch.md)
 
 # HTML5
 
