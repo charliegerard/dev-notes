@@ -26,6 +26,7 @@ Currently: 144 TILs
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Design patterns](#design-patterns)
+  * [Flow](#flow)
   * [Node](#node)
   * [React](#react)
 * [Machine Learning](#machine-learning)
@@ -198,6 +199,10 @@ Currently: 144 TILs
 
 * [Constructor Pattern](javascript/design_patterns/constructorPattern.md)
 * [Module pattern](javascript/design_patterns/modulePattern.md)
+
+### Flow
+
+* [Type casting](javascript/flow/typeCasting.md)
 
 
 # Machine Learning
