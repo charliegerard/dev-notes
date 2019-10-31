@@ -6,7 +6,7 @@ This project is a collection of small things I learn about different languages, 
 It consists of short markdown documents summarising concepts or tips I'd like to share.
 The goal is to write something new everyday or as often as possible.
 
-Currently: 144 TILs
+Currently: 145 TILs
 
 ---
 
@@ -142,6 +142,7 @@ Currently: 144 TILs
 * [Git gc](git/gc.md)
 * [Remove file/folder from git history](git/git_filter_branch.md)
 * [Git branch vs git checkout -b](git/git-branch-vs-git-checkout-b.md)
+* [Squashing commits](git/squash.md)
 
 # HTML5
 
